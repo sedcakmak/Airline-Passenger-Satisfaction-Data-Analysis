@@ -1,6 +1,6 @@
 # ✈️ Airline Passenger Satisfaction Analysis
 
-This project is developed as the final case study for the **Data Analysis Bootcamp** organized by **Patika.dev & Kız Başına**.
+This project is developed as the first final case study for the **Data Analysis Bootcamp** organized by **Patika.dev & Kız Başına**.
 
 ## 📌 Project Description
 
